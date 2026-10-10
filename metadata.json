@@ -1,0 +1,7 @@
+{
+  "name": "Kite Agent — Delightful AI & AWS Free Tier Suite",
+  "description": "An intuitive, responsive AI agent crafted for delight, with real-time streaming, warm persona guidance, and turnkey AWS Free Tier deployment blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
