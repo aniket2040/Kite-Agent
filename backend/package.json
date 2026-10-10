@@ -1,0 +1,9 @@
+{
+  "name": "kite-agent-lambda",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^2.4.0",
+    "@aws-sdk/client-ssm": "^3.750.0"
+  }
+}
